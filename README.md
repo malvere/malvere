@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm Kostya!
 
-<!--
-**malvere/malvere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+/// me.py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Me:
+    def __init__(self):
+        self.name = "Kostya"
+        self.age = 21
+        self.communication = [
+            "ru-native",
+            "en-C1",
+            "es-A1"
+            ]
+    def skills(self):
+        self.language = ["Python", "Swift", "SQL"]
+        self.database = ["PostgreSQL"]
+        self.technologies = [
+            "SwiftUI",
+            "Psycopg2",
+            "SQLAlchemy",
+            "JSON",
+            "REST Api",
+            "iogram",
+            "pyTelegramBotApi",
+            "Selenium",
+            "Asyncio"
+        ]
+        
+```
