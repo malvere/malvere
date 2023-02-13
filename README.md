@@ -7,7 +7,7 @@
 class Me:
     def __init__(self):
         self.name = "Kostya"
-        self.age = 21
+        self.age = 22
         self.communication = [
             "ru-native",
             "en-C1",
