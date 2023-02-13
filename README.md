@@ -22,7 +22,7 @@ class Me:
             "SQLAlchemy",
             "JSON",
             "REST Api",
-            "iogram",
+            "aiogram",
             "pyTelegramBotApi",
             "Selenium",
             "Asyncio"
