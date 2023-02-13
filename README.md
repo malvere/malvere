@@ -6,12 +6,12 @@
 
 class Me:
     def __init__(self):
-        self.name = "Kostya"
-        self.age = 22
+        self.name: str = "Kostya"
+        self.age: int = 22
         self.communication = [
             "ru-native",
             "en-C1",
-            "es-A1"
+            "es-A1",
             ]
     def skills(self):
         self.language = ["Python", "Swift", "SQL"]
